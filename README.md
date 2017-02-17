@@ -1,1 +1,1 @@
-UnrealVR-PsychicHands
+PsychicHands
